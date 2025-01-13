@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+    <!-- 背景圆 -->
+    <circle cx="64" cy="64" r="60" fill="#4CAF50"/>
+    
+    <!-- 文档图标 -->
+    <path d="M40 28h48c2.2 0 4 1.8 4 4v64c0 2.2-1.8 4-4 4H40c-2.2 0-4-1.8-4-4V32c0-2.2 1.8-4 4-4z" 
+          fill="white"/>
+    
+    <!-- 文本线条 -->
+    <rect x="44" y="40" width="40" height="4" rx="2" fill="#4CAF50"/>
+    <rect x="44" y="52" width="40" height="4" rx="2" fill="#4CAF50"/>
+    <rect x="44" y="64" width="30" height="4" rx="2" fill="#4CAF50"/>
+    
+    <!-- AI标志 -->
+    <circle cx="88" cy="88" r="24" fill="#2196F3"/>
+    <text x="88" y="96" 
+          font-family="Arial, sans-serif" 
+          font-size="24" 
+          font-weight="bold" 
+          fill="white" 
+          text-anchor="middle">AI</text>
+</svg> 
